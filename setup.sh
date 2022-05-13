@@ -15,3 +15,5 @@ enableCORS = false\n\
 \n\
 
 " > ~/.streamlit/config.toml
+
+streamlit run app.py
